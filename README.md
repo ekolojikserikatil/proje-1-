@@ -9,7 +9,8 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız.
 o(n^2)
 
-Time Complexity: Average case kapsamındadır.
+Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.
+Average case kapsamındadır.
 
 
 
